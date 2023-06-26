@@ -1,0 +1,6 @@
+﻿  Cinema.cpp
+C:\Users\Admin\Documents\Resh\C++ ООП\patterns\ConsoleApplication9\Cinema.h(23,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication9.cpp
+C:\Users\Admin\Documents\Resh\C++ ООП\patterns\ConsoleApplication9\Cinema.h(23,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  ConsoleApplication9.vcxproj -> C:\Users\Admin\Documents\Resh\C++ ООП\patterns\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
